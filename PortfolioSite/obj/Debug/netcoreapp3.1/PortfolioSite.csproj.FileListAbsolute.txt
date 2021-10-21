@@ -1,0 +1,74 @@
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.exe
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.deps.json
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.runtimeconfig.json
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.runtimeconfig.dev.json
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.dll
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.pdb
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.Views.dll
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.Views.pdb
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.AssemblyInfoInputs.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.AssemblyInfo.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csproj.CoreCompileInputs.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorAssemblyInfo.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorAssemblyInfo.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.TagHelpers.input.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.TagHelpers.output.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorCoreGenerate.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorTargetAssemblyInfo.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorTargetAssemblyInfo.cs
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.Views.pdb
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioSite.StaticWebAssets.Manifest.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioSite.StaticWebAssets.xml
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.dll
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.pdb
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.genruntimeconfig.cache
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csproj.CopyComplete
+C:\Users\boche\Google Drev\Programmering projekt\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csprojAssemblyReference.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.exe
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.deps.json
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.runtimeconfig.json
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.runtimeconfig.dev.json
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.dll
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.pdb
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.Views.dll
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\bin\Debug\netcoreapp3.1\PortfolioSite.Views.pdb
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csprojAssemblyReference.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.AssemblyInfoInputs.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.AssemblyInfo.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csproj.CoreCompileInputs.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorAssemblyInfo.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorAssemblyInfo.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioSite.StaticWebAssets.Manifest.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\staticwebassets\PortfolioSite.StaticWebAssets.xml
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\scopedcss\bundle\PortfolioSite.styles.css
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.TagHelpers.input.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.TagHelpers.output.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorCoreGenerate.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorTargetAssemblyInfo.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.RazorTargetAssemblyInfo.cs
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.Views.pdb
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.dll
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.pdb
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.genruntimeconfig.cache
+C:\Dev\Projekter\PortFolioSite\PortfolioSite\PortfolioSite\obj\Debug\netcoreapp3.1\PortfolioSite.csproj.CopyComplete

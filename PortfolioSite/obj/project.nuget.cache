@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5WAVhDvsslZxdpMoYdsBvQuDr6RJNCku329W4C8HFQ54OsfqtLCPmkUx3vjxBnzqc1y67l6TKUEKQAAoUkBYg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Projekter\\PortFolioSite\\PortfolioSite\\PortfolioSite\\PortfolioSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boche\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

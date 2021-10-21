@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0t9yR/lakUbEfQ1lMdbt2jcsyBvuX8kEC3xS8+yP663jIciaDrCL3ZJZ/zNrxLgX7YWiuEsv+5xry/pyoEUWIA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Projekter\\PortFolioSite\\PortfolioSite\\PortfolioSite\\PortfolioSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boche\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.13\\microsoft.netcore.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\boche\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\boche\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.13\\microsoft.aspnetcore.app.runtime.win-x86.3.1.13.nupkg.sha512",
+    "C:\\Users\\boche\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.13\\microsoft.netcore.app.host.win-x86.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

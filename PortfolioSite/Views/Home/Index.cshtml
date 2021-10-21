@@ -1,0 +1,109 @@
+﻿@model PortfolioSite.Models.ViewModel
+<!-- Nav -->
+<nav id="nav">
+    <a href="#" class="icon solid fa-user-alt"><span>Home</span></a>
+    <a href="#work" class="icon solid fa-folder-open"><span>Work</span></a>
+    <a href="#contact" class="icon solid fa-paper-plane"><span>Contact</span></a>
+    <a href="https://blogs.bochesa.dk" class="icon solid fa-blog"><span>Blog</span></a>
+    <a href="https://www.linkedin.com/in/henrik-levin-bochesa-51386027/" target="_blank" class="icon brands fa-linkedin"><span>LinkedIn</span></a>
+</nav>
+
+<!-- Main -->
+<div id="main">
+
+
+    <!-- Me -->
+    <article id="home" class="panel intro">
+        <header>
+            <h1>@Model.MyInfo.FullName</h1>
+            <p>@Model.MyInfo.Title</p>
+            <p><i class="fas fa-xs fa-circle"></i> C# </p>
+            <p><i class="fas fa-xs fa-circle"></i> Asp.Net Core </p>
+            <p><i class="fas fa-xs fa-circle"></i> Web Application </p>
+            <p><i class="fas fa-xs fa-circle"></i> App Development </p>
+            <p><i class="fas fa-xs fa-circle"></i> WPF </p>
+        </header>
+        <a href="#work" class="jumplink pic">
+            <span class="arrow icon solid fa-chevron-right"><span>See my work</span></span>
+            <img src="images/me.png" alt="Henrik Levin Bochesa" />
+        </a>
+    </article>
+
+
+    <!-- Work -->
+    <article id="work" class="panel">
+        <header>
+            <h2>Work</h2>
+        </header>
+        <p>
+            Here are some of my personal projects I have been working on though out my career.
+            Some of the projects have been made in collaboration with a team, others by myself.
+            Mostly, these projects have been made for practice, and not as such for production.
+        </p>
+        <section>
+            <div class="row">
+                @foreach (var work in Model.Portfolios)
+                {
+                    <div class="col-4 col-6-medium col-12-small">
+                        <p>@work.Name</p>
+                        <a title="@work.Name" href="@work.Link" class="image fit" target="_blank"><img src="@work.Picture" alt="@work.Description"></a>
+                    </div>
+                }
+            </div>
+        </section>
+    </article>
+
+    <!-- Contact -->
+    <article id="contact" class="panel">
+        <header>
+            <h2>Contact Me</h2>
+        </header>
+        @if (TempData["Feedback"] != null)
+        {
+            <div class="alert alert-info" id="Feedback">@TempData["Feedback"]</div>
+        }
+
+        <form method="post">
+            <div>
+                <div class="row">
+                    <div class="col-6 col-12-medium">
+                        <input asp-for="ContactMe.Name" placeholder="Name" class="form-control" />
+                        <span asp-validation-for="ContactMe.Name"></span>
+                    </div>
+                    <div class="col-6 col-12-medium">
+                        <input asp-for="ContactMe.Email" placeholder="Email" class="form-control" />
+                        <span asp-validation-for="ContactMe.Email"></span>
+                    </div>
+                    <div class="col-12">
+                        <input asp-for="ContactMe.Subject" placeholder="Subject" class="form-control" />
+                        <span asp-validation-for="ContactMe.Subject"></span>
+                    </div>
+                    <div class="col-12">
+                        <textarea asp-for="ContactMe.Message" class="form-control" placeholder="Message" rows="6"></textarea>
+                        <span asp-validation-for="ContactMe.Message"></span>
+                    </div>
+                    <div class="col-12">
+                        <input type="submit" value="Send Message" />
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <div>
+
+        </div>
+    </article>
+    <!-- Blog -->
+    <article id="blog" class="panel">
+        <header>
+            <h1>4. Semester Blog</h1>
+            <p>Henriks Blog for 4 semester på Datamatiker uddannelsen UCL 2021</p>
+        </header>
+        <section>
+            <p> //Insert something smart for seing blog posts, including dates, headlines and a picture</p>
+        </section>
+    </article>
+
+
+</div>
+
